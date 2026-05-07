@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "sl-test",
+  title: "test",
   description: "Built with NoCMS",
 };
 
